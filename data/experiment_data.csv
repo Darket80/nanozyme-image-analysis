@@ -1,0 +1,4 @@
+image,material,concentration,time,pH,TMB,H2O2,Abs652
+CuMnZnS_10ug_60s.jpg,CuMnZnS,10,60,4,1,10,0.25
+CuMnZnS_50ug_60s.jpg,CuMnZnS,50,60,4,1,10,0.65
+CuMnZnS_100ug_60s.jpg,CuMnZnS,100,60,4,1,10,1.1
