@@ -9,7 +9,7 @@ import os
 # =====================
 
 data = pd.read_csv(
-    "results/nanozyme_dataset.csv"
+    "../results/nanozyme_dataset.csv"
 )
 
 
@@ -77,7 +77,7 @@ activity["R2"] = r2
 
 
 os.makedirs(
-    "results",
+    "../results",
     exist_ok=True
 )
 

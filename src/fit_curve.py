@@ -9,7 +9,7 @@ from sklearn.metrics import r2_score
 # =====================
 
 data = pd.read_csv(
-    "results/nanozyme_dataset.csv"
+    "../results/nanozyme_dataset.csv"
 )
 
 

@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # 读取数据
 data = pd.read_csv(
-    "results/nanozyme_dataset.csv"
+    "../results/nanozyme_dataset.csv"
 )
 
 
