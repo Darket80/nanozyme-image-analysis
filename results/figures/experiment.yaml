@@ -1,0 +1,16 @@
+material: CuMnZnS
+
+enzyme_type: POD
+
+substrate:
+  name: TMB
+
+measurement:
+  wavelength: 652
+
+analysis:
+  color_space: HSV
+  replicates: 3
+pH:
+
+time:

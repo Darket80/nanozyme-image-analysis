@@ -3,13 +3,13 @@ import pandas as pd
 
 # 读取实验条件数据
 experiment = pd.read_csv(
-    "../data/experiment_data.csv"
+    "../../data/processed/experiment_data.csv"
 )
 
 
 # 读取颜色分析数据
 color = pd.read_csv(
-    "../results/color_data.csv"
+    "../../results/tables/color_data.csv"
 )
 
 
